@@ -1,30 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Dia 00: 16 de fevereiro de 2020
+**Progresso do dia**: Básico HTML e HTML5.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Aprendizados:** Conheci os elementos básicos utilizados na construção de web
+pages. Utilizando o curriculum do FreeCodeCamp, ao mesmo tempo que estudava, 
+praticava com exercícios e desafios.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link para o trabalho:** [FreeCodeCamp](https://www.freecodecamp.org/oluciano.net)
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Dia 01: 17 de fevereiro de 2020 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Progresso do dia**: Básico de CSS.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Aprendizados**: Hoje estudei menos que nos dias anteriores, porém conheci treinar um pouco de css. Fiz uns 20% da trilha do FCC, passando por elementos de cores, tamanhos e fontes.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link(s) para o trabalho**: [FreeCodeCamp](https://www.freecodecamp.org/oluciano.net)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Dia 02: 18 de fevereiro de 2020
 
+**Progresso do dia**: Básico de CSS.
 
-### Day 1: June 27, Monday
+**Aprendizados**: Comecei um pouco tarde, não pude estudar muito, mas conheci 
+trabalhar com alguns elementos: bordas, margins e preenchimentos.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) para o trabalho**: [FreeCodeCamp](https://www.freecodecamp.org/oluciano.net)
