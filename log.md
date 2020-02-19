@@ -7,6 +7,7 @@
 pages. Utilizando o curriculum do FreeCodeCamp, ao mesmo tempo que estudava, 
 praticava com exercícios e desafios.
 
+<<<<<<< HEAD
 **Link para o trabalho:** [FreeCodeCamp](https://www.freecodecamp.org/oluciano.net)
 
 ### Dia 01: 17 de fevereiro de 2020 
