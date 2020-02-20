@@ -28,11 +28,24 @@ trabalhar com alguns elementos: bordas, margins e preenchimentos.
 
 ### Dia 03: 19 de fevereiro de 2020
 
-**Progresso do dia**: Css Visual Aplicado.
+**Progresso do dia**: Applied Visual Design.
 
 **Aprendizados**: Iniciei o terceiro módulo e aprendi um pouco mais sobre CSS.
 Acredito que entre os tópicos estudados, os mais complicado foi o que trata do
 posicionamento de elementos. Porém, como ainda estou no início, acredito que a
 prática com exercícios fará com que eu fixe os conceitos e adquira mais habilidade nesse tema.
+
+**Link(s) para o trabalho**: [FreeCodeCamp](https://www.freecodecamp.org/oluciano.net)
+
+### Dia 04: 20 de fevereiro de 2020
+
+**Progresso do dia**: Applied Visual Design, concluído.
+
+**Aprendizados**: Finalizei o módulo de visual design, que tem como objetivo
+demonstrar como manipular utilizando css propriedades como tipografia, cores, 
+gráficos, animação, etc. Não foquei muito em praticar exercícios extras pois 
+pretendo voltar neste tema quando estiver fazendo os projetos. No geral, gostei
+bastante do módulo, que demonstrou parte do potencial do CSS para efeitos em 
+páginas web.
 
 **Link(s) para o trabalho**: [FreeCodeCamp](https://www.freecodecamp.org/oluciano.net)
