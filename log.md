@@ -7,7 +7,6 @@
 pages. Utilizando o curriculum do FreeCodeCamp, ao mesmo tempo que estudava, 
 praticava com exercícios e desafios.
 
-<<<<<<< HEAD
 **Link para o trabalho:** [FreeCodeCamp](https://www.freecodecamp.org/oluciano.net)
 
 ### Dia 01: 17 de fevereiro de 2020 
@@ -24,5 +23,16 @@ praticava com exercícios e desafios.
 
 **Aprendizados**: Comecei um pouco tarde, não pude estudar muito, mas conheci 
 trabalhar com alguns elementos: bordas, margins e preenchimentos.
+
+**Link(s) para o trabalho**: [FreeCodeCamp](https://www.freecodecamp.org/oluciano.net)
+
+### Dia 03: 19 de fevereiro de 2020
+
+**Progresso do dia**: Css Visual Aplicado.
+
+**Aprendizados**: Iniciei o terceiro módulo e aprendi um pouco mais sobre CSS.
+Acredito que entre os tópicos estudados, os mais complicado foi o que trata do
+posicionamento de elementos. Porém, como ainda estou no início, acredito que a
+prática com exercícios fará com que eu fixe os conceitos e adquira mais habilidade nesse tema.
 
 **Link(s) para o trabalho**: [FreeCodeCamp](https://www.freecodecamp.org/oluciano.net)
