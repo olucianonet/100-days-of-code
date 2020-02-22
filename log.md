@@ -49,3 +49,19 @@ bastante do módulo, que demonstrou parte do potencial do CSS para efeitos em
 páginas web.
 
 **Link(s) para o trabalho**: [FreeCodeCamp](https://www.freecodecamp.org/oluciano.net)
+
+### Dia 05: 21 de fevereiro de 2020
+
+**Progresso do dia**: Applied Accessibility.
+
+**Aprendizados**: Hoje não realizei nenhum desafio. Dediquei alguns minutos a 
+customizar um pouco mais minha distro Debian, instalando alguns apps utilitários e configurando o ambiente. Instalei a `tint2`, como barra de tarefas, `obmenu`, configurador do menu do desktop e o `volti`, um controle de volume do `systray`. Por fim, instalei o `xrandr`, para configurar a disposição
+dos monitores.
+
+### Dia 06:  
+
+**Progresso do dia**: Applied Accessibility concluído.
+
+**Aprendizados**: Hoje iniciei e concluí esta seção que trata de alguns elementos voltados à acessibilidade nas páginas web. Além disso, tem como objetivo tornar o conteúdo mais navegável para quem utiliza o teclado.
+
+**Link(s) para o trabalho**: [FreeCodeCamp](https://www.freecodecamp.org/oluciano.net)
