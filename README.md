@@ -7,6 +7,7 @@
 * [Se você decidir participar](https://github.com/kallaway/100-days-of-code/blob/master/intl/pt-br/LEIAME.md#se-voc%C3%AA-decidir-participar)
 * [Perguntas frequentes](https://github.com/kallaway/100-days-of-code/blob/master/intl/pt-br/perguntas_frequentes.md)
 * [Recursos](https://github.com/kallaway/100-days-of-code/blob/master/intl/pt-br/recursos.md)
+* [Notas de estudo]()
 
 ## 100 Days Of Code - Log
 
@@ -18,6 +19,7 @@ pages. Utilizando o curriculum do FreeCodeCamp, ao mesmo tempo que estudava,
 praticava com exercícios e desafios.
 
 - [Link para meu progresso](https://www.freecodecamp.org/oluciano.net)
+- [Link para meu trabalho]()
 
 ### Dia 01: 17 de fevereiro de 2020 
 
@@ -78,7 +80,7 @@ Por fim, configurei todos os componentes e criei um script de inicialização pa
 
 ### Dia 07: 23 de fevereiro de 2020
 
-**Progresso do dia**: Responvive Web Design Principles concluído.
+**Progresso do dia**: Responsive Web Design Principles e CSS Flexbox concluído.
 
 **Aprendizados**: Aprendi sobre os recursos utilizados no desenvolvimento de páginas web que podem se adaptar aos diversos dispositivos disponíveis em seus mais variados tamanhos e resoluções. Entre os recursos mais intessantes existe o layout Flexbox, capaz de realizar um arranjo dinâmico dos componentes em diferentes tamanhos de telas e navegadores.
 
