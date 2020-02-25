@@ -7,7 +7,6 @@
 * [Se você decidir participar](https://github.com/kallaway/100-days-of-code/blob/master/intl/pt-br/LEIAME.md#se-voc%C3%AA-decidir-participar)
 * [Perguntas frequentes](https://github.com/kallaway/100-days-of-code/blob/master/intl/pt-br/perguntas_frequentes.md)
 * [Recursos](https://github.com/kallaway/100-days-of-code/blob/master/intl/pt-br/recursos.md)
-* [Notas de estudo]()
 
 ## 100 Days Of Code - Log
 
@@ -19,7 +18,7 @@ pages. Utilizando o curriculum do FreeCodeCamp, ao mesmo tempo que estudava,
 praticava com exercícios e desafios.
 
 - [Link para meu progresso](https://www.freecodecamp.org/oluciano.net)
-- [Link para meu trabalho]()
+- [Link para meu trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/01-responsive-web-design/01-basic-html-and-html5)
 
 ### Dia 01: 17 de fevereiro de 2020 
 
