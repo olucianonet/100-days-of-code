@@ -84,3 +84,20 @@ Por fim, configurei todos os componentes e criei um script de inicialização pa
 **Aprendizados**: Aprendi sobre os recursos utilizados no desenvolvimento de páginas web que podem se adaptar aos diversos dispositivos disponíveis em seus mais variados tamanhos e resoluções. Entre os recursos mais intessantes existe o layout Flexbox, capaz de realizar um arranjo dinâmico dos componentes em diferentes tamanhos de telas e navegadores.
 
 - [Link para meu progresso](https://www.freecodecamp.org/oluciano.net)
+
+
+### Dia 08: 24 de fevereiro de 2020
+
+**Progresso do dia**: Revisei alguns tópicos de Basic HTML and HTML5.
+
+**Aprendizados**: Treinei alguns tópicos vistos nesta seção, com o objetivo de praticar as lições estudadas.
+
+- [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/01-responsive-web-design/01-basic-html-and-html5)
+
+### Dia 09: 25 de fevereiro de 2020
+
+**Progresso do dia**: Terminei a revisão dos tópicos de Basic HTML and HTML5.
+
+**Aprendizados**: Essa revisão foi interessante para fixar alguns conceitos e praticar a construção dessa estrutura básica de páginas HTML.
+
+- [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/01-responsive-web-design/01-basic-html-and-html5)

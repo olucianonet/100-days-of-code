@@ -3,8 +3,16 @@
 	<p>
 		Formulários geralmente utilizam <code>checkbox</code> para questões que têm mais de uma resposta possível.
 	</p>
-	<form action="/tmp/hmtml" method="GET">
-		
+	<p>
+		Assim como os radio buttons, um <code>checkbox</code> deve ficar aninhado com seu próprio label. Onde o elemento <code>input</code> será associado através do <code>id</code> com o <code>name</code> do label.
+	</p>
+	<form action="success.html" method="GET">		
+		<input type="checkbox" id="python" name="langs" value="python">	
+		<label for="python">Python</label>		
+		<input type="checkbox" id="go" name="langs" value="go">	
+		<label for="go">Go</label>
+		<input type="checkbox" id="javascript" name="langs" value="javascript">
+		<label for="javascript">Javascript</label><br>	
+		<button type="submit" name="enviar">Enviar</button>			
 	</form>
-
 </main>

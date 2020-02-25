@@ -1,0 +1,18 @@
+<main>
+	<h1>Use value attribute com radio buttons and checkboxes</h1>
+	<p>
+		Como já utilizando anteriormente, ao enviar dados com formulários, utilizamos o atributo <code>value</code> para enviar dados ao servidor.
+	</p>
+	<p>
+		Quando submetido ao server, será passado um conjunto de <code>chave=valor</code>. Caso este atribute seja omitido, o valor default será <code>on</code>.
+	</p>
+	<form action="success.html">
+		<input type="checkbox" id="python" name="langs" value="python">
+		<label for="python">Python</label>
+		<input type="checkbox" id="python" name="langs" value="go">
+		<label for="python">Go</label>
+		<input type="checkbox" id="python" name="langs" value="javascript">
+		<label for="python">Javascript</label>
+		<button type="sumit">Enviar</button>
+	</form>
+</main>
