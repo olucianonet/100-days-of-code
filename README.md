@@ -101,3 +101,11 @@ Por fim, configurei todos os componentes e criei um script de inicialização pa
 **Aprendizados**: Essa revisão foi interessante para fixar alguns conceitos e praticar a construção dessa estrutura básica de páginas HTML.
 
 - [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/01-responsive-web-design/01-basic-html-and-html5)
+
+### Dia 10: 26 de fevereiro de 2020
+
+**Progresso do dia**: CSS Grid :heavy_check_mark: .
+
+**Aprendizados**: Aprendi como utilizar CSS para construir páginas com grids. Até agora, acredito que esse foi o tópico mais complexo. Por essa razão, voltarei nos próximos dias para treinar mais. Pois apesar de ter entendido que para criar um grid, devo configurar a propriedade `display` e posteriormente configurar a propriedade `grid-template-columns` e `rows`, ainda não consegui entender todos os assuntos visualizados nesse módulo.
+
+- [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/01-responsive-web-design/07-css-grid)

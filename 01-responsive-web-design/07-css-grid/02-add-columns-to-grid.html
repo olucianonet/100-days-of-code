@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Grid</title>
+</head>
+	<style>
+		.container {
+			font-family: Arial, sans-serif;
+			font-size: 50px;
+			width: 500px;
+			background-color: yellow;
+			display: grid;
+			grid-template-columns: 150px 200px 150px;
+		}
+		.item1 {background-color: green;}
+		.item2 {background-color: blue;	}
+		.item3 {background-color: brown;}		
+	</style>
+<body>
+	<main>
+		<h1>Adicione colunas ao grid</h1>
+		<p>
+			Para adicionar algumas colunas ao grid, use <code>grid-template-columns</code>. 
+		</p>
+		<p>
+			Na propriedade <code>grid-template-columns</code>, a quantidade de parâmetros define a quantidade de colunas e seu valor a largura de cada.
+		</p>
+		<div class="container">
+			<div class="item1">Item 1</div>
+			<div class="item2">Item 2</div>
+			<div class="item3">Item 3</div>
+		</div>
+	</main>
+</body>
+</html>
