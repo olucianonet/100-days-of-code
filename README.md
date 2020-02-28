@@ -11,7 +11,7 @@
 ## 100 Days Of Code - Log
 
 ### Dia 00: 16 de fevereiro de 2020
-**Progresso do dia**: Básico HTML e HTML5.
+**Progresso do dia**: Básico HTML e HTML5 :heavy_check_mark:
 
 **Aprendizados:** Conheci os elementos básicos utilizados na construção de web
 pages. Utilizando o curriculum do FreeCodeCamp, ao mesmo tempo que estudava, 
@@ -39,7 +39,7 @@ trabalhar com alguns elementos: bordas, margins e preenchimentos.
 
 ### Dia 03: 19 de fevereiro de 2020
 
-**Progresso do dia**: Applied Visual Design.
+**Progresso do dia**: Applied Visual Design :hourglass_flowing_sand:.
 
 **Aprendizados**: Iniciei o terceiro módulo e aprendi um pouco mais sobre CSS.
 Acredito que entre os tópicos estudados, os mais complicado foi o que trata do
@@ -50,7 +50,7 @@ prática com exercícios fará com que eu fixe os conceitos e adquira mais habil
 
 ### Dia 04: 20 de fevereiro de 2020
 
-**Progresso do dia**: Applied Visual Design, concluído.
+**Progresso do dia**: Applied Visual Design, :heavy_check_mark:.
 
 **Aprendizados**: Finalizei o módulo de visual design, que tem como objetivo
 demonstrar como manipular utilizando css propriedades como tipografia, cores, 
@@ -63,7 +63,7 @@ páginas web.
 
 ### Dia 05: 21 de fevereiro de 2020
 
-**Progresso do dia**: Applied Accessibility.
+**Progresso do dia**: Applied Accessibility :hourglass_flowing_sand:.
 
 **Aprendizados**: Hoje não realizei nenhum desafio. Dediquei alguns minutos a 
 customizar um pouco mais minha distro Debian, instalando alguns apps utilitários e configurando o ambiente. Instalei a `tint2`, como barra de tarefas, `obmenu`, configurador do menu desktop, o `volti`, um controle de volume do `systray` e o `xrandr`, para configurar a disposição dos monitores.
@@ -71,7 +71,7 @@ Por fim, configurei todos os componentes e criei um script de inicialização pa
 
 ### Dia 06: 22 de fevereiro de 2020
 
-**Progresso do dia**: Applied Accessibility concluído.
+**Progresso do dia**: Applied Accessibility :heavy_check_mark:.
 
 **Aprendizados**: Hoje iniciei e concluí esta seção que trata de alguns elementos voltados à acessibilidade nas páginas web. Além disso, tem como objetivo tornar o conteúdo mais navegável para quem utiliza o teclado.
 
@@ -79,7 +79,7 @@ Por fim, configurei todos os componentes e criei um script de inicialização pa
 
 ### Dia 07: 23 de fevereiro de 2020
 
-**Progresso do dia**: Responsive Web Design Principles e CSS Flexbox concluído.
+**Progresso do dia**: Responsive Web Design Principles e CSS Flexbox :heavy_check_mark:.
 
 **Aprendizados**: Aprendi sobre os recursos utilizados no desenvolvimento de páginas web que podem se adaptar aos diversos dispositivos disponíveis em seus mais variados tamanhos e resoluções. Entre os recursos mais intessantes existe o layout Flexbox, capaz de realizar um arranjo dinâmico dos componentes em diferentes tamanhos de telas e navegadores.
 
@@ -88,7 +88,7 @@ Por fim, configurei todos os componentes e criei um script de inicialização pa
 
 ### Dia 08: 24 de fevereiro de 2020
 
-**Progresso do dia**: Revisei alguns tópicos de Basic HTML and HTML5.
+**Progresso do dia**: Revisei alguns tópicos de Basic HTML and HTML5 :hourglass_flowing_sand:.
 
 **Aprendizados**: Treinei alguns tópicos vistos nesta seção, com o objetivo de praticar as lições estudadas.
 
@@ -96,7 +96,7 @@ Por fim, configurei todos os componentes e criei um script de inicialização pa
 
 ### Dia 09: 25 de fevereiro de 2020
 
-**Progresso do dia**: Terminei a revisão dos tópicos de Basic HTML and HTML5.
+**Progresso do dia**: Terminei a revisão dos tópicos de Basic HTML and HTML5 :heavy_check_mark:.
 
 **Aprendizados**: Essa revisão foi interessante para fixar alguns conceitos e praticar a construção dessa estrutura básica de páginas HTML.
 
@@ -109,3 +109,13 @@ Por fim, configurei todos os componentes e criei um script de inicialização pa
 **Aprendizados**: Aprendi como utilizar CSS para construir páginas com grids. Até agora, acredito que esse foi o tópico mais complexo. Por essa razão, voltarei nos próximos dias para treinar mais. Pois apesar de ter entendido que para criar um grid, devo configurar a propriedade `display` e posteriormente configurar a propriedade `grid-template-columns` e `rows`, ainda não consegui entender todos os assuntos visualizados nesse módulo.
 
 - [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/01-responsive-web-design/07-css-grid)
+
+### Dia 11: 27 de fevereiro de 2020
+
+**Progresso do dia**: 
+- Iniciei a revisão do tópico Basic CSS :hourglass_flowing_sand:. 
+- Responsive Web Design Projects :heavy_check_mark:
+
+**Aprendizados**: Revisei alguns assuntos básicos referente à CSS. Estilos de cores, tamanhos, fontes, imagens, etc. Afinal, CSS é estilo. Por fim, finalizei a seção de projetos, recebendo minha primeira certificação de Responsive Web Design.
+
+- [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/01-responsive-web-design/02-basic-css)

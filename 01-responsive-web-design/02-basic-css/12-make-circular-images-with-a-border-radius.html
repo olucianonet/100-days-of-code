@@ -1,0 +1,94 @@
+<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+<style>
+  * {
+    font-family: ROBOTO, sans-serif;
+  }
+  .red-text {
+    color: red;
+  }
+  h2 {
+    font-family: Lobster, monospace;
+  }
+  p {
+    font-size: 16px;
+  }
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }areas
+  .smaller-image {
+    width: 100px;
+  }
+  .container {
+    display: grid;
+    width: 600px;
+    grid-template-columns: 150px 450px;
+    background-color: #009e9e;
+    grid-template-areas: 
+      "header header"
+      "advert content"
+      "footer footer";
+  }
+  header {
+    background-color: #9AC172;
+    grid-area: header;
+  }
+  main {
+    background-color: #FDF2E3;
+    grid-area: content;
+  }
+  .advert {
+    grid-area: advert;
+  }
+  footer {
+    background-color: #9AC172;
+    width: 600px;
+    height: 100px;
+    grid-area: footer;
+  }
+</style>
+<p>
+  Give your cat photo a border-radius of 50%.
+</p>
+<div class="container">
+  <header class="">
+    <h2 class="red-text">CatPhotoApp</h2>
+  </header>
+  <div class="advert">
+    <a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>    
+  </div>
+  <main class="">
+    <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+
+
+    <div>
+      <p>Things cats love:</p>
+      <ul>
+        <li>cat nip</li>
+        <li>laser pointers</li>
+        <li>lasagna</li>
+      </ul>
+      <p>Top 3 things cats hate:</p>
+      <ol>
+        <li>flea treatment</li>
+        <li>thunder</li>
+        <li>other cats</li>
+      </ol>
+    </div>
+
+    <form action="/submit-cat-photo">
+      <label><input type="radio" name="indoor-outdoor" checked> Indoor</label>
+      <label><input type="radio" name="indoor-outdoor"> Outdoor</label><br>
+      <label><input type="checkbox" name="personality" checked> Loving</label>
+      <label><input type="checkbox" name="personality"> Lazy</label>
+      <label><input type="checkbox" name="personality"> Energetic</label><br>
+      <input type="text" placeholder="cat photo URL" required>
+      <button type="submit">Submit</button>
+    </form>
+  </main>
+  <footer class="">
+    
+  </footer>
+</div>
