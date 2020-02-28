@@ -22,7 +22,7 @@ praticava com exercícios e desafios.
 
 ### Dia 01: 17 de fevereiro de 2020 
 
-**Progresso do dia**: Básico de CSS.
+**Progresso do dia**: Básico de CSS. :hourglass_flowing_sand:
 
 **Aprendizados**: Hoje estudei menos que nos dias anteriores, porém conheci treinar um pouco de css. Fiz uns 20% da trilha do FCC, passando por elementos de cores, tamanhos e fontes.
 
@@ -30,7 +30,7 @@ praticava com exercícios e desafios.
 
 ### Dia 02: 18 de fevereiro de 2020
 
-**Progresso do dia**: Básico de CSS.
+**Progresso do dia**: Básico de CSS. :heavy_check_mark:
 
 **Aprendizados**: Comecei um pouco tarde, não pude estudar muito, mas conheci 
 trabalhar com alguns elementos: bordas, margins e preenchimentos.
@@ -39,7 +39,7 @@ trabalhar com alguns elementos: bordas, margins e preenchimentos.
 
 ### Dia 03: 19 de fevereiro de 2020
 
-**Progresso do dia**: Applied Visual Design :hourglass_flowing_sand:.
+**Progresso do dia**: Applied Visual Design. :hourglass_flowing_sand:
 
 **Aprendizados**: Iniciei o terceiro módulo e aprendi um pouco mais sobre CSS.
 Acredito que entre os tópicos estudados, os mais complicado foi o que trata do
@@ -119,3 +119,11 @@ Por fim, configurei todos os componentes e criei um script de inicialização pa
 **Aprendizados**: Revisei alguns assuntos básicos referente à CSS. Estilos de cores, tamanhos, fontes, imagens, etc. Afinal, CSS é estilo. Por fim, finalizei a seção de projetos, recebendo minha primeira certificação de Responsive Web Design.
 
 - [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/01-responsive-web-design/02-basic-css)
+
+### Dia 12: 28 de fevereiro de 2020
+
+**Progresso do dia**: Iniciei o módulo de JavaScript. :hourglass_flowing_sand:
+
+**Aprendizados**: Por hora, só trabalhei com variáveis. Apesar de estar vendo esse conteúdo em um curso em paralelo, optei por refazê-lo pois acredito que a repetição será benéfica. Além disso, em paralelo estou revisando o módulo CSS. De fato, tenho tentando estudar no estilo de repetição espaçada.
+
+- [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/02-javascript-algorithms-and-data-structures/01-basic-javascript)

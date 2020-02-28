@@ -1,0 +1,6 @@
+/*
+No comments
+*/
+
+// No comments.
+
