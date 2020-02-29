@@ -122,8 +122,16 @@ Por fim, configurei todos os componentes e criei um script de inicialização pa
 
 ### Dia 12: 28 de fevereiro de 2020
 
-**Progresso do dia**: Iniciei o módulo de JavaScript. :hourglass_flowing_sand:
+**Progresso do dia**: Basic JavaScript. :hourglass_flowing_sand:
 
 **Aprendizados**: Por hora, só trabalhei com variáveis. Apesar de estar vendo esse conteúdo em um curso em paralelo, optei por refazê-lo pois acredito que a repetição será benéfica. Além disso, em paralelo estou revisando o módulo CSS. De fato, tenho tentando estudar no estilo de repetição espaçada.
+
+- [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/02-javascript-algorithms-and-data-structures/01-basic-javascript)
+
+### Dia 13: 29 de fevereiro de 2020
+
+**Progresso do dia**: Basic Javascript. :hourglass_flowing_sand:
+
+**Aprendizados**: Continuando com o módulo básico de Javascript, estudei um pouco de `strings` e `arrays`.
 
 - [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/02-javascript-algorithms-and-data-structures/01-basic-javascript)
