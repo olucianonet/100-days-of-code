@@ -135,3 +135,19 @@ Por fim, configurei todos os componentes e criei um script de inicialização pa
 **Aprendizados**: Continuando com o módulo básico de Javascript, estudei um pouco de `strings` e `arrays`.
 
 - [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/02-javascript-algorithms-and-data-structures/01-basic-javascript)
+
+### Dia 14: 1º de março de 2020
+
+**Progresso do dia**: Basic Javascript. :heavy_check_mark: :fireworks:
+
+**Aprendizados**: Concluí o módulo básico de Javascript, onde passei por toda a base como tipos de dados, loops, condicionais, conversão de tipos, objetos, recursão, etc.
+
+- [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/02-javascript-algorithms-and-data-structures/01-basic-javascript)
+
+### Dia 15: 2 de março de 2020
+
+**Progresso do dia**: ES6. :hourglass_flowing_sand:
+
+**Aprendizados**: Introdução ao ES6, onde estou vendo a parte mais teória do Javascript.
+
+- [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/02-javascript-algorithms-and-data-structures/02-es6)
