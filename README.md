@@ -151,3 +151,19 @@ Por fim, configurei todos os componentes e criei um script de inicialização pa
 **Aprendizados**: Introdução ao ES6, onde estou vendo a parte mais teória do Javascript.
 
 - [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/02-javascript-algorithms-and-data-structures/02-es6)
+
+### Dia 16: 3 de março de 2020
+
+**Progresso do dia**: ES6. :hourglass_flowing_sand:
+
+**Aprendizados**: Estudei como se cria uma classe em JavaScript e como definir métodos get/set.
+
+- [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/02-javascript-algorithms-and-data-structures/02-es6)
+
+### Dia 17: 4 de março de 2020
+
+**Progresso do dia**: ES6. :heavy_check_mark: :fireworks: :tada:
+
+**Aprendizados**: Finalizando o módulo vi vários assuntos que desconhecia em ES6, como import/export de módulos e recursos assíncronos.
+
+- [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/02-javascript-algorithms-and-data-structures/02-es6)
