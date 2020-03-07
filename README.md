@@ -26,7 +26,7 @@ praticava com exercícios e desafios.
 
 **Aprendizados**: Hoje estudei menos que nos dias anteriores, porém conheci treinar um pouco de css. Fiz uns 20% da trilha do FCC, passando por elementos de cores, tamanhos e fontes.
 
-- [Link para meu progresso](https://www.freecodecamp.org/oluciano.net)
+- [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/01-responsive-web-design/02-basic-css)
 
 ### Dia 02: 18 de fevereiro de 2020
 
@@ -35,7 +35,7 @@ praticava com exercícios e desafios.
 **Aprendizados**: Comecei um pouco tarde, não pude estudar muito, mas conheci 
 trabalhar com alguns elementos: bordas, margins e preenchimentos.
 
-- [Link para meu progresso](https://www.freecodecamp.org/oluciano.net)
+- [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/01-responsive-web-design/02-basic-css)
 
 ### Dia 03: 19 de fevereiro de 2020
 
@@ -167,3 +167,32 @@ Por fim, configurei todos os componentes e criei um script de inicialização pa
 **Aprendizados**: Finalizando o módulo vi vários assuntos que desconhecia em ES6, como import/export de módulos e recursos assíncronos.
 
 - [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/02-javascript-algorithms-and-data-structures/02-es6)
+
+### Dia 18: 5 de março de 2020
+
+**Progresso do dia**: Basic Css (Revisão). :repeat:
+
+**Aprendizados**: Realizei uma revisão do módulo básico de css.
+
+- [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/01-responsive-web-design/03-basic-css)
+
+### Dia 19: 6 de março de 2020
+
+**Progresso do dia**: Regex. :hourglass_flowing_sand:
+
+**Aprendizados**: Apesar de já ter visto esse assunto em outro curso, vou fazer o módulo para praticar regex..
+
+- [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/02-javascript-algorithms-and-data-structures/03-regex)
+
+### Dia 20: 7 de março de 2020
+
+**Progresso do dia**: 
+- Revisando conceitos com os how-to do w3school. :repeat:	
+- Re|re|re|iniciei um blog, _minimalista_, :smirk: , para aplicar o que for aprendendo 
+- Obrigado a:
+ 	- [@jj_mutai](https://twitter.com/jj_mutai) pelo [install](https://computingforgeeks.com/how-to-install-jekyll-on-ubuntu-18-04/).
+	- [@kswanie21](https://twitter.com/kswanie21) pelo [setup](https://hackernoon.com/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7b).
+
+**Aprendizados**: Utilizei fontes awesomes para criar um menu. Achei esse recurso muito prático, já que basta adicionar um recurso à página e utilizar a classe referente ao ícone desejado para renderizar o ícone.
+
+- [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/01-responsive-web-design/08-w3school-howto)
