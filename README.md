@@ -196,3 +196,11 @@ Por fim, configurei todos os componentes e criei um script de inicialização pa
 **Aprendizados**: Utilizei fontes awesomes para criar um menu. Achei esse recurso muito prático, já que basta adicionar um recurso à página e utilizar a classe referente ao ícone desejado para renderizar o ícone.
 
 - [Link(s) para o trabalho](https://github.com/olucianonet/100-days-of-code/tree/master/01-responsive-web-design/08-w3school-howto)
+
+### Dia 21: 8 de março de 2020
+
+**Progresso do dia**: Revisando conceitos de HTML, CSS e JS.
+
+**Aprendizados**: Criei um post no blog falando um pouco sobre DOM.
+
+**Link(s) para o trabalho**: [Alterando o DOM com JS - Classes](https://oluciano.net/dev/web/html/css/js/2020/03/08/alterando-o-dom-com-js-classes.html)
